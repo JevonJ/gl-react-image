@@ -11,6 +11,9 @@
   "peerDependencies": {
     "gl-react": "~2.2.0"
   },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
   "devDependencies": {
     "babel-cli": "^6.10.1",
     "babel-preset-es2015": "^6.9.0",
